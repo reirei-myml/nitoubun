@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Nitoubun\bin\Release\netcoreapp3.1\Nitoubun.exe
+C:\Users\user\source\repos\Nitoubun\bin\Release\netcoreapp3.1\Nitoubun.deps.json
+C:\Users\user\source\repos\Nitoubun\bin\Release\netcoreapp3.1\Nitoubun.runtimeconfig.json
+C:\Users\user\source\repos\Nitoubun\bin\Release\netcoreapp3.1\Nitoubun.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nitoubun\bin\Release\netcoreapp3.1\Nitoubun.dll
+C:\Users\user\source\repos\Nitoubun\bin\Release\netcoreapp3.1\Nitoubun.pdb
+C:\Users\user\source\repos\Nitoubun\obj\Release\netcoreapp3.1\Nitoubun.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Nitoubun\obj\Release\netcoreapp3.1\Nitoubun.FrmNitoubun.resources
+C:\Users\user\source\repos\Nitoubun\obj\Release\netcoreapp3.1\Nitoubun.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Nitoubun\obj\Release\netcoreapp3.1\Nitoubun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Nitoubun\obj\Release\netcoreapp3.1\Nitoubun.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nitoubun\obj\Release\netcoreapp3.1\Nitoubun.AssemblyInfo.cs
+C:\Users\user\source\repos\Nitoubun\obj\Release\netcoreapp3.1\Nitoubun.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nitoubun\obj\Release\netcoreapp3.1\Nitoubun.dll
+C:\Users\user\source\repos\Nitoubun\obj\Release\netcoreapp3.1\Nitoubun.pdb
+C:\Users\user\source\repos\Nitoubun\obj\Release\netcoreapp3.1\Nitoubun.genruntimeconfig.cache
